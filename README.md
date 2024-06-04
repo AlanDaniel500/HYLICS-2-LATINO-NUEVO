@@ -9,7 +9,7 @@ Ir a los archivos locales de Hylics 2, ir a la carpeta "Hylics2_Windows_Data" y 
 
 CREDITOS
 
-Juego creador por: Mason Lindroth
+Juego creado por: Mason Lindroth
 
 Compositor: Chuck Salamone
 
