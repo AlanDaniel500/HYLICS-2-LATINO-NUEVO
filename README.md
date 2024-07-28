@@ -19,5 +19,5 @@ Supervisor: Iván Monteros
 
 Ayuda adicional: Abym
 
-Beta tester: Valen
+Ayua a encontrar palabras sin traducir: Valen
  
